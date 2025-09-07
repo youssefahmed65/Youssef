@@ -359,7 +359,7 @@ header{
 @media (max-width:300px) {
 
     .navigation a{
-    padding-left: 15px;
+    padding-left: 1000px;
   }
   
   body{
@@ -368,3 +368,4 @@ header{
 
 
 }
+
