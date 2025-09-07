@@ -13,7 +13,7 @@ header{
 
   background-color: rgb(145, 183, 247);
   width: 100%;
-  position: fixed;
+
   z-index: 999;
   display: flex;
   justify-content: space-between;
@@ -359,7 +359,7 @@ header{
 @media (max-width:300px) {
 
     .navigation a{
-    padding-left: 1000px;
+    padding-left: 15px;
   }
   
   body{
@@ -368,4 +368,5 @@ header{
 
 
 }
+
 
