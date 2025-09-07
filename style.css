@@ -359,11 +359,12 @@ header{
 @media (max-width:300px) {
 
     .navigation a{
-    padding-left: 20px;
+    padding-left: 15px;
   }
   
   body{
     font-size: 10px;
   }
+
 
 }
