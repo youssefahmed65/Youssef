@@ -342,7 +342,7 @@ header{
   }
 
  body{
-  font-size: 12px;
+  font-size: 13px;
  }
 
  .main-content h2{
@@ -359,7 +359,7 @@ header{
 @media (max-width:365px) {
   
 body{
-    font-size: 10px;
+    font-size: 13px;
   }
       .navigation a{
     padding-left: 15px;
@@ -375,7 +375,7 @@ body{
   }
   
   body{
-    font-size: 10px;
+    font-size: 13px;
   }
 
 
@@ -395,6 +395,7 @@ body{
 
 
 }
+
 
 
 
