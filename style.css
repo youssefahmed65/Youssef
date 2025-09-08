@@ -383,4 +383,19 @@ body{
 
 
 
+@media (max-width:319px) {
+
+    .navigation a{
+    padding-left: 15px;
+  }
+  
+  header{
+    font-size: 8px;
+  }
+
+
+}
+
+
+
 
